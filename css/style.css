@@ -1,0 +1,71 @@
+body {
+background: url(img/fon2.jpg); 
+background-size: 100%;
+}
+
+ .text {
+   background: url(img/fon3.png); 
+   padding: 12px;
+   margin-top: 400px;
+   background-size: 100%; 
+}
+#КПК .page {
+    background: url(img/pda.png) no-repeat; 
+}   
+#Бармен .page {
+    background: url(img/bar.png) no-repeat; 
+}   
+#Begin .page {
+    background: url(img/main.png) no-repeat; 
+}   
+#Beg .page, #Потерпеть .page, #Потерпеть2 .page, #Касьяновы_Топи .page, #Стерпеть .page, #Сдержаться .page, #СТ .page { 
+    background: url(img/main2.png) no-repeat; 
+}   
+#Поел .page, #Позавтракать .page {
+    background: url(img/eat.png) no-repeat;
+     } 
+#Попил_кофе .page, #Бахнуть_кофейку .page, #Попить_кофе .page {
+    background: url(img/cofe.png) no-repeat;
+     } 
+#Блокнот .page, #Выброс .page {
+    background: url(img/bloknot.png) no-repeat; 
+}
+#Вступление .page {
+    background: url(img/3.png) no-repeat; 
+}  
+#Воронка .page, #Гравиконцентрат .page {
+    background: url(img/voronka.png) no-repeat; 
+}   
+#Черный_Сталкер .page {
+    background: url(img/blackS.png) no-repeat; 
+}   
+#Артефакты .page {
+    background: url(img/art.png) no-repeat; 
+}  
+#Закурил .page, #Покурить .page {
+    background: url(img/sigaret.png) no-repeat;
+     } 
+#Ворона .page {
+    background: url(img/voron.png) no-repeat; 
+}  
+#redFont {
+  color: red;
+}
+#BlueFont {
+  color: #2a9217;
+}
+#FontStyle {
+font-family: Century Gothic;
+}
+@font-face {
+    font-family: MarckScript-Regular; 
+    src: url(fonts/MarckScript-Regular.ttf); 
+   }
+#FontStyle2 {
+font-family: MarckScript-Regular;
+font-size: 18pt;
+}
+#FontStyle3 {
+font-family: Jura;
+font-size: 18pt;
+}
